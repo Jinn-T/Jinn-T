@@ -1,6 +1,6 @@
 ### Hi there, I'm Jinn 👋
 
-Im currently training as a software engineer at nology and I'm very excited to launch my career in tech! 
+Im currently training as a full stack developer at nology and I'm very excited to launch my career in tech! 
 
 
 <!--
