@@ -1,6 +1,9 @@
-### Hi there, I'm Jinn 👋
+### Hi there, I'm Jinn! 👋
+
 
 I’m currently training as a full stack developer at Nology and I'm looking forward to launching a career in tech!
+
+Feel free to drop me a message: [LinkedIn - Jinn Tsang](https://www.linkedin.com/in/jinnt/)
 
 <!--
 **Jinn-T/Jinn-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
