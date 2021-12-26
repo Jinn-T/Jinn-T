@@ -1,7 +1,7 @@
 ### Hi there, I'm Jinn! 👋
 
 
-I’m currently training as a full stack developer at Nology and I'm looking forward to launching a career in tech!
+I’m currently training as a full stack developer at Nology.
 
 Feel free to drop me a message: [LinkedIn - Jinn Tsang](https://www.linkedin.com/in/jinnt/)
 
