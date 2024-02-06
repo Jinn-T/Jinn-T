@@ -1,7 +1,7 @@
 ### Hi there, I'm Jinn! 👋
 
 
-I’m currently working on enhancing my skills as a full stack developer.
+This is a space where I store and actively work on personal projects to enhance my skills as a full-stack developer 😁.
 
 Feel free to drop me a message: [LinkedIn - Jinn Tsang](https://www.linkedin.com/in/jinnt/)
 
